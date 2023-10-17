@@ -57,10 +57,3 @@ onMount(async function () {
 </Card>
 <br/>
 {/each}
-
-
-<card >
-	{#each values as item}
-                  <option value={item.id}>{item.name}</option>
-                {/each}
-</card>

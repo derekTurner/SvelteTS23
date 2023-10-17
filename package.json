@@ -1,7 +1,7 @@
 {
-  "dependencies": {
-    "svelte": "^3.59.2",
-    "sveltestrap": "^5.11.2",
-    "vite": "^4.4.11"
-  }
-}
+    "dependencies": {
+        "svelte": "^3.59.2",
+        "sveltestrap": "^5.11.2",
+        "vite":"4.4.11"
+    }
+}  
